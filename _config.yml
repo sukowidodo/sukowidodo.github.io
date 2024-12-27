@@ -13,7 +13,7 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-suko-widodo-a27318109/: "suko-widodo-a27318109"
+linkedin: "suko-widodo-a27318109"
 stackoverflow: "7352970/suko-widodo"
 github: "sukowidodo"
 instagram: "suko_widdy/"
