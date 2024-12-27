@@ -39,6 +39,7 @@
 .fa-envelope
 .fa-quora
 .fa-instagram
+.fa-medium
 .fa-stack-overflow {
   font-size: 25px;
 }
@@ -55,6 +56,16 @@
 
 .rounded-social-buttons .social-button.twitter {
   background: #55acee;
+}
+
+.rounded-social-buttons .social-button.medium {
+  background: #565656;
+}
+
+.rounded-social-buttons .social-button.medium:hover, .rounded-social-buttons .social-button.medium:focus {
+  color: #9b9fa2;
+  background: #fefefe;
+  border-color: #131313;
 }
 
 .rounded-social-buttons .social-button.twitter:hover, .rounded-social-buttons .social-button.twitter:focus {

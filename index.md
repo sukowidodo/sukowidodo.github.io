@@ -3,19 +3,31 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: profile.png
+  image: profile.jpg
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+**Hello there!** My name is [Suko Widodo](https://github.com/sukowidodo), and I’m a passionate fullstack mobile developer with more than six years of experience crafting seamless, user-centric applications for a diverse range of industries.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+From conceptualizing ideas to deploying polished products, I specialize in delivering end-to-end solutions for mobile platforms. My expertise spans both frontend and backend development, ensuring the applications I build are not only visually appealing but also robust, scalable, and efficient under the hood.
 
-PS: If you liked the theme, do star it on GitHub!
+## My Skill Set
 
-### Also, check out:
+Over the years, I’ve honed a versatile skill set that allows me to thrive in all aspects of mobile application development:
 
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+### Frontend Development
+
+Languages & Frameworks: Proficient in technologies like Flutter, Swift, Kotlin, and Java for building high-performing, cross-platform and native apps.
+
+UI/UX Design: Adept at translating complex ideas into intuitive user interfaces, ensuring exceptional user experiences.
+
+Performance Optimization: Skilled in optimizing apps for speed, responsiveness, and battery efficiency.
+
+### Backend Development
+
+Languages & Frameworks: Experienced in Node.js, Python (Django/Flask), PHP (Laravel), and Java Spring Boot for creating reliable server-side architectures.
+
+Database Management: Proficient in both SQL databases (MySQL, PostgreSQL) and NoSQL databases (MongoDB, Firebase).
+
+API Development: Expertise in designing and implementing RESTful and GraphQL APIs to power feature-rich applications.

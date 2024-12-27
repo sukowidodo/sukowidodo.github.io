@@ -89,4 +89,13 @@ target="_blank">
 </a>
 {%- endif -%}
 
+{%- if site.medium -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'Medium' }}"
+class="social-button medium" itemprop="sameAs"
+href="https://{{ site.medium }}.medium.com"
+target="_blank">
+<i class="fab fa-brands fa-medium"></i>
+</a>
+{%- endif -%}
+
 </div>
