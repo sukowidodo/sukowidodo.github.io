@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Suko Widodo
-description: Just an ordinary person who is an IT enthusiast
+description: Just an IT enthusiast
 
 baseurl: / #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
