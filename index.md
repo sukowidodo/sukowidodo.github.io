@@ -3,7 +3,7 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: tuyriq8jm7jmtzxoat1u.webp
+  image: profile.jpg
 published: true
 ---
 
