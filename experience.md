@@ -15,7 +15,7 @@ published: true
 - Collaborated with cross-functional teams.  
 
 #### Fullstack Android Developer  
-**Growwin**  
+**PT Pak Win Majukan Indonesia (Growwin)**  
 *April 2022 – September 2023*  
 - Develop video based apps smoth like tiktok.  
 - Encrypt video and file to secure data.  
