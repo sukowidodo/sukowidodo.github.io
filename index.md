@@ -10,6 +10,8 @@ published: true
 
 **Hello there!** My name is [Suko Widodo](https://github.com/sukowidodo), and I’m a passionate fullstack mobile developer with more than six years of experience crafting seamless, user-centric applications for a diverse range of industries.
 
+Expertise in designing and developing cross-platform mobile applications and robust backend systems. Proficient in modern mobile frameworks, cloud technologies, and agile development practices. Proven track record of delivering scalable, user-centric solutions from concept to deployment.
+
 From conceptualizing ideas to deploying polished products, I specialize in delivering end-to-end solutions for mobile platforms. My expertise spans both frontend and backend development, ensuring the applications I build are not only visually appealing but also robust, scalable, and efficient under the hood.
 
 ## My Skill Set
