@@ -9,17 +9,17 @@ published: true
 
 ## Flutter Developer 
 **PT Motasa Indonesia**  
-*September 2024 – Present*  
-- Create and maintenance mobile apps with high performance with flutter.  
-- Tracing issue and solve trouble with accurate.  
-- Collaborated with cross-functional teams.  
+*September 2024 – Present*   
+- Developed and maintained high-performance mobile applications using Flutter.
+- Diagnosed and resolved technical issues with precision and efficiency.
+- Collaborated with cross-functional teams to deliver seamless user experiences.
 
 ## Fullstack Android Developer  
 **PT Pak Win Majukan Indonesia (Growwin)**  
 *April 2022 – September 2023*  
-- Develop video based apps smoth like tiktok.  
-- Encrypt video and file to secure data.  
-- Log and tracing statistic of user and help to improve performance.  
+- Built smooth, video-based applications with user experiences similar to TikTok.
+- Implemented file and video encryption to enhance data security.
+- Logged user statistics and performance metrics to support optimization and growth efforts.
 
 ## Android Developer  
 **Telkom Indonesia**  
