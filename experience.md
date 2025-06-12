@@ -28,7 +28,7 @@ published: true
 - Implemented file and video encryption to enhance data security.
 - Logged user statistics and performance metrics to support optimization and growth efforts.
 
-## Lead Developer  
+## Lead Developer and Backend Developer 
 **PT Eklanku Indonesia Cemerlang**  
 *April 2019 – March 2020*  
 - Define and oversee the project's technical architecture, ensuring it aligns with business goals and technical best practices.  
