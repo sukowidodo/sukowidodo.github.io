@@ -14,19 +14,19 @@ published: true
 - Diagnosed and resolved technical issues with precision and efficiency.
 - Collaborated with cross-functional teams to deliver seamless user experiences.
 
+## Android Developer  
+**Telkom Indonesia**  
+*January 2022 – February 2024*  
+- Built RESTful APIs for mobile applications, achieving high scalability and performance.  
+- Participated in daily scrum meetings and contributed to agile sprint planning.  
+- Improved system security by implementing robust authentication and authorization protocols.
+
 ## Fullstack Android Developer  
 **PT Pak Win Majukan Indonesia (Growwin)**  
 *April 2022 – September 2023*  
 - Built smooth, video-based applications with user experiences similar to TikTok.
 - Implemented file and video encryption to enhance data security.
 - Logged user statistics and performance metrics to support optimization and growth efforts.
-
-## Android Developer  
-**Telkom Indonesia**  
-*January 2022 – February 2024*  
-- Built RESTful APIs for mobile applications, achieving high scalability and performance.  
-- Participated in daily scrum meetings and contributed to agile sprint planning.  
-- Improved system security by implementing robust authentication and authorization protocols.  
 
 ## Lead Developer  
 **PT Eklanku Indonesia Cemerlang**  
