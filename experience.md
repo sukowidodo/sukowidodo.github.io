@@ -38,8 +38,15 @@ published: true
 
 ## IT Technical Support  
 **PT Jivan Jaya Makmur Telecom**  
-*January 2016 - April 2019*  
+*November 2016 - April 2019*  
 - Install and configure software applications, operating systems, and network systems.
 - Monitor system performance and suggest improvements for hardware or software.
 - Use remote tools (such as TeamViewer or Remote Desktop) to assist users in solving technical problems without needing to be physically present.
 - Diagnose and resolve technical issues, including software bugs, hardware malfunctions, and network problems.
+
+## Web Developer  
+**PT MIC Transformer**  
+*September 2015 - November 2016*  
+- Develop, test, and maintain responsive websites and web applications.
+- Convert UI/UX designs into working HTML/CSS/JavaScript code.
+- Develop and integrate backend APIs and databases using technologies such as PHP, Laravel, Node.js, or others.
